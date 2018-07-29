@@ -1,9 +1,0 @@
-Uchsas
-Male
-21 700000 2015
-Iqbal
-Male
-21 710000 2014
-Jannat
-Female
-21 730000 2012
